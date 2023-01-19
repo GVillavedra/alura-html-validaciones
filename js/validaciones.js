@@ -35,7 +35,7 @@ const mensajesDeError = {
       "Al menos 6 caracteres, máximo 12, debe contener una letra minúscula, una letra mayúscula, un número y no puede contener caracteres especiales.",
   },
   nacimiento: {
-    valueMissing: "Este campo no puede estar vacío",
+    valueMissing: "El campo nacimiento no puede estar vacío",
     customError: "Debes tener al menos 18 años de edad",
   },
   numero: {
@@ -43,7 +43,7 @@ const mensajesDeError = {
     patternMismatch: "El formato requerido es XXXXXXXXXX 10 números",
   },
   direccion: {
-    valueMissing: "Este campo no puede estar vacío",
+    valueMissing: "El campo dirección no puede estar vacío",
     patternMismatch: "La dirección debe contener entre 10 y 40 caracteres.",
   }
   ciudad: {
